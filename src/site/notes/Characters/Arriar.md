@@ -8,6 +8,7 @@
 > # Name
 > ![picrew_1763968248112493.png](/img/user/picrew_1763968248112493.png)
 > ###### Biology
+> | Type | Stat |
 > | ---- | ---- |
 > | Mother | Testing |
 > | Father | Agnarious |
