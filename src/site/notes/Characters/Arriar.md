@@ -7,14 +7,11 @@
 >[!infobox]
 > # Name
 > ![picrew_1763968248112493.png](/img/user/picrew_1763968248112493.png)
-> ###### Stats
-> | Type | Stat |
+> ###### Biology
 > | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
-> 
-> ##### Stats 2
-> | Type | Stat |
-> | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
+> | Mother | Testing |
+> | Father | Agnarious |
+> |Age[^1]|22| 
+Arriar is great
+
+[^1]: As of 2025
