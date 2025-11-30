@@ -38,3 +38,12 @@
 - 2016
 - [[Stores/Sword City\|Sword City]]: Under New Management
 - [[Characters/Major Leia\|Major Leia]], a retired army friend of [[Characters/Valkyrie\|Valkyrie]] hears about how the [[Stores/Sword City\|Sword City]] in the mall is being run and decided to fix it, getting hired as the manager and quickly whipping it into shape
+- 2015
+- Xexiax Alone
+- Xexiax gets kicked out of her parents house with noting but what she has on her and a gift of some money from her mother
+- 2015
+- New chick at Spencers
+- Rachel gets hired as a part-time closer at Spencers Gifts
+- 2014
+- Sonic Takeover
+- Valkyrie gets hired at Sonic as a manager and proceeds to run it like she ran the army before retiring
