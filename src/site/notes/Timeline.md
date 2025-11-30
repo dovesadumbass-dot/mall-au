@@ -39,11 +39,23 @@
 - [[Stores/Sword City\|Sword City]]: Under New Management
 - [[Characters/Major Leia\|Major Leia]], a retired army friend of [[Characters/Valkyrie\|Valkyrie]] hears about how the [[Stores/Sword City\|Sword City]] in the mall is being run and decided to fix it, getting hired as the manager and quickly whipping it into shape
 - 2015
-- Xexiax Alone
-- Xexiax gets kicked out of her parents house with noting but what she has on her and a gift of some money from her mother
+- [[Characters/Xexiax\|Xexiax]] Alone
+- [[Characters/Xexiax\|Xexiax]] gets kicked out of her parents house with noting but what she has on her and a gift of some money from her mother
 - 2015
-- New chick at Spencers
-- Rachel gets hired as a part-time closer at Spencers Gifts
+- New chick at [[Stores/Spencers\|Spencers]]
+- [[Characters/Rachel\|Rachel]] gets hired as a part-time closer at [[Stores/Spencers\|Spencers]] Gifts
 - 2014
 - Sonic Takeover
-- Valkyrie gets hired at Sonic as a manager and proceeds to run it like she ran the army before retiring
+- [[Characters/Valkyrie\|Valkyrie]] gets hired at Sonic as a manager and proceeds to run it like she ran the army before retiring
+- 2010
+- Lucien Invades
+- [[Characters/Lucian\|Lucian]] Starts working at the mall at “[[Stores/Gorski Eragon\|Gorski Eragon]]” because he heard that his Ex-Boyfriend [[Characters/Memnoch\|Memnoch]] worked nearby
+- 1982
+- [[Characters/Memnoch\|Memnoch]] Starts
+- [[Characters/Memnoch\|Memnoch]] opens [[Stores/Treasures of Anastasia\|Treasures of Anastasia]] in the newly opened Mall
+- 1982
+- [[Stores/The Lazarus Center\|The Lazarus Center]] is founded
+- [[Stores/The Lazarus Center\|The Lazarus Center]] finishes construction and Opens to the public
+- 1980
+- [[Stores/The Lazarus Center\|The Lazarus Center]] breaks ground
+- [[Stores/The Lazarus Center\|The Lazarus Center]] breaks ground on their project to open a brand new mall
