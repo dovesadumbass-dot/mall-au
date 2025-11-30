@@ -6,7 +6,7 @@
 
 >[!infobox]
 > # Name
-> ![[Image.png\|cover hsmall]]
+> ![picrew_1763968248112493.png](/img/user/picrew_1763968248112493.png)
 > ###### Stats
 > | Type | Stat |
 > | ---- | ---- |
