@@ -2,3 +2,19 @@
 {"dg-publish":true,"permalink":"/characters/arriar/"}
 ---
 
+
+
+>[!infobox]
+> # Name
+> ![[Image.png\|cover hsmall]]
+> ###### Stats
+> | Type | Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
+> 
+> ##### Stats 2
+> | Type | Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
