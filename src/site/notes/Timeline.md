@@ -5,15 +5,15 @@
 
 - 2025
 - [[Stores/BAM\|BAM]] Moves into the mall
-- Yvette and TinselSteel began working at BAM, having transferred from a BAM in another mall
+- [[Characters/Yvette\|Yvette]] and [[Characters/Tinselsteel\|Tinselsteel]] began working at [[Stores/BAM\|BAM]], having transferred from a [[Stores/BAM\|BAM]] in another mall
   
 - 2025
-- Zumiez is Hiring
-- [[Characters/Cassian\|Cassian]] begins working at Zumiez and interacting with the party
+- [[Stores/Zumiez\|Zumiez]] is Hiring
+- [[Characters/Cassian\|Cassian]] begins working at [[Stores/Zumiez\|Zumiez]] and interacting with the party
   
 - 2024
 - [[Characters/Izzy\|Izzy]]'s Birthday
-- [[Characters/Izzy\|Izzy]] turns 15 and starts working at Round 1 as an Axe throwing instructor
+- [[Characters/Izzy\|Izzy]] turns 15 and starts working at [[Stores/Round 1\|Round 1]] as an Axe throwing instructor
 
 - 2024
 - Hot Topic is Hiring
@@ -24,17 +24,17 @@
 - [[Characters/Asriel\|Asriel]] turns 15 and gets a job at Barnes and Noble in the mall
 
 - November 2021
-- Arriar gets a job
-- Arriar is hired at Sword City as a favor from Major Leia to Xexiax
+- [[Characters/Arriar\|Arriar]] gets a job
+- [[Characters/Arriar\|Arriar]] is hired at [[Stores/Sword City\|Sword City]] as a favor from [[Characters/Major Leia\|Major Leia]] to [[Characters/Xexiax\|Xexiax]]
 - August 2021
-- Arriar gets kicked out
-- Arriar gets kicked out of his dad's house and begins to crash on Xexiax's couch
+- [[Characters/Arriar\|Arriar]] gets kicked out
+- [[Characters/Arriar\|Arriar]] gets kicked out of his dad's house and begins to crash on [[Characters/Xexiax\|Xexiax]]'s couch
 - 2020
 - New Guitar Teacher
-- Trillette gets hired at Guitar center as a new teacher for their Kidz Rock program
+- [[Characters/Trillette\|Trillette]] gets hired at [[Stores/Guitar Center\|Guitar Center]] as a new teacher for their Kidz Rock program
 - 2016
-- Bahaumet's Blessings reopens
-- Xexiax uses her meager savings to buy what's left of Bahaumet's Blessings, a store that was in the middle of closing down because the owner was retiring
+- [[Stores/Bahaumet's Blessings\|Bahaumet's Blessings]] reopens
+- [[Characters/Xexiax\|Xexiax]] uses her meager savings to buy what's left of [[Stores/Bahaumet's Blessings\|Bahaumet's Blessings]], a store that was in the middle of closing down because the owner was retiring
 - 2016
-- Sword City: Under New Management
-- Major Leia, a retired army friend of Valkyrie hears about how the sword city in the mall is being run and decided to fix it, getting hired as the manager and quickly whipping it into shape
+- [[Stores/Sword City\|Sword City]]: Under New Management
+- [[Characters/Major Leia\|Major Leia]], a retired army friend of [[Characters/Valkyrie\|Valkyrie]] hears about how the [[Stores/Sword City\|Sword City]] in the mall is being run and decided to fix it, getting hired as the manager and quickly whipping it into shape
