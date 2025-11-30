@@ -9,7 +9,7 @@
   
 - 2025
 - Zumiez is Hiring
-[[Characters/Cassian\|Cassian]] begins working at Zumiez and interacting with the party
+- [[Characters/Cassian\|Cassian]] begins working at Zumiez and interacting with the party
   
 - 2024
 - [[Characters/Izzy\|Izzy]]'s Birthday
