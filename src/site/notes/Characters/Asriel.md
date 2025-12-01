@@ -17,6 +17,9 @@
 > |Species| Goliath |
 > |Age[^1]|17| 
 
+>  You're a good kid. I know things get rough but hey, you'll turn out better than me! Just give your mom a chance, family is family.
+>  - Trillette
+
 ## Early Life
 Asriel was born to Greyoll and [[Characters/Valkyrie\|Valkyrie]] Rostadottir and lived with her father for 5 years, while her mother was deployed. When [[Characters/Valkyrie\|Valkyrie]] returned, she served Greyoll with divorce papers and moved out of the house, taking Asriel with her. After the courts returned Asriel into Greyoll's custody, she was kidnapped by her mother and stayed there for less than a week. Because of the disasterous nature of her parents divorce, Asriel was sent to live with a woman nicknamed Ice Blue and her son through the Big Brother Big Sister Program.
 
