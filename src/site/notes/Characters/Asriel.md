@@ -4,7 +4,7 @@
 
 >[!infobox]
 > # Asriel Miku Rostadottir
-> ![[image - here\|image - here]]
+> ![picrew_1764014241076656.png](/img/user/picrew_1764014241076656.png)
 > ###### Personal Information
 > |      |      |
 > | ---- | ---- |
@@ -12,8 +12,8 @@
 > | Father | Greyoll Rostadottir |
 > |Other family| [[Characters/Thellin\|Thellin]] (adoptive Brother)|
 > |  | [[Characters/Izzy\|Izzy]](Nephew/Adoptive Brother)|
-> |  | Ice Blue (Big Sister Program)|
-> |  | Fir (Big Brother Program)|
+> |  | Ice Blue (Big Family)|
+> |  | Fir (Big Family)|
 > |Species| Goliath |
 > |Age[^1]|17| 
 
