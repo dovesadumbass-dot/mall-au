@@ -2,16 +2,17 @@
 {"dg-publish":true,"permalink":"/characters/arriar/"}
 ---
 
-Arriar is awesome
 
 >[!infobox]
 > # Name
 > ![picrew_1763968248112493.png](/img/user/picrew_1763968248112493.png)
-> ###### Biology
-> | Type | Stat |
+> ###### Personal Information
+> |      |      |
 > | ---- | ---- |
 > | Mother | Testing |
 > | Father | Agnarious |
 > |Age[^1]|22| 
+
+Arriar is awesome
 
 [^1]: As of 2025
