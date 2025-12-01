@@ -21,7 +21,7 @@
 
 - 2023
 - [[Characters/Asriel\|Asriel]]'s Birthday
-- [[Characters/Asriel\|Asriel]] turns 15 and gets a job at Barnes and Noble in the mall
+- [[Characters/Asriel\|Asriel]] turns 15 and gets a job at [[Stores/Barnes and Noble\|Barnes and Noble]] in the mall
 
 - November 2021
 - [[Characters/Arriar\|Arriar]] gets a job
