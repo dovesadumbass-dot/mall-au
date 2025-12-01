@@ -11,6 +11,8 @@
 > | ---- | ---- |
 > | Mother | Testing |
 > | Father | Agnarious |
+> |Other family| Xexiax (Half sister)|
+> |Species| Half Stryx, Half Fire Elemental|
 > |Age[^1]|22| 
 
 
