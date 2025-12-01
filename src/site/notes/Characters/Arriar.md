@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/arriar/"}
 ---
 
-
+Arriar is awesome
 
 >[!infobox]
 > # Name
@@ -13,6 +13,5 @@
 > | Mother | Testing |
 > | Father | Agnarious |
 > |Age[^1]|22| 
-Arriar is great
 
 [^1]: As of 2025
