@@ -45,8 +45,8 @@
 - New chick at [[Stores/Spencers\|Spencers]]
 - [[Characters/Rachel\|Rachel]] gets hired as a part-time closer at [[Stores/Spencers\|Spencers]] Gifts
 - 2014
-- Sonic Takeover
-- [[Characters/Valkyrie\|Valkyrie]] gets hired at Sonic as a manager and proceeds to run it like she ran the army before retiring
+- [[Stores/Sonic\|Sonic]] Takeover
+- [[Characters/Valkyrie\|Valkyrie]] gets hired at [[Stores/Sonic\|Sonic]] as a manager and proceeds to run it like she ran the army before retiring
 - 2010
 - Lucien Invades
 - [[Characters/Lucian\|Lucian]] Starts working at the mall at “[[Stores/Gorski Eragon\|Gorski Eragon]]” because he heard that his Ex-Boyfriend [[Characters/Memnoch\|Memnoch]] worked nearby
